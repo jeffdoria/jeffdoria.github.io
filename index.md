@@ -3,7 +3,7 @@ layout: default
 title: Início
 ---
 
-<h1 class="font-filter font-filter-app">Olá, eu sou [Seu Nome] 👋</h1>
+<h1><span class="font-filter font-filter-app"><strong>Olá, eu sou Jeff</strong><span>👋</h1>
 
 Bem-vindo ao meu portfólio de desenvolvedor! Aqui você encontra meus principais projetos, um pouco sobre mim e como entrar em contato.
 
