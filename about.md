@@ -1,4 +1,5 @@
 ---
 layout: default
-title: Início
+title: Sobre mim
+permalink: /about/
 ---
